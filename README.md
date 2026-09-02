@@ -4,7 +4,7 @@ A modular Python ETL pipeline for cleaning and standardizing messy e-commerce sa
 
 ## Project Status
 
-**Current Stage:** Data Cleaning & Standardization — Complete
+Data Cleaning, Feature Engineering, and Category Analytics: Complete
 ## Features
 
 * **Text Cleaning:** Normalizes whitespace and casing, and validates email formats.
@@ -12,12 +12,12 @@ A modular Python ETL pipeline for cleaning and standardizing messy e-commerce sa
 * **Date Parsing:** Standardizes mixed date formats and handles missing dates.
 * **Identifier Formatting:** Formats Order IDs as `ORD-XXXXX` and phone numbers as `(XXX) XXX-XXXX`.
 * **Deduplication:** Removes duplicate records based on primary identifiers.
-
+* **Feature Engineering:** Automatically calculates line-item revenue and extracts month names.
+* **Summary Analytics:** Computes category-level metrics and exports aggregated reports.
 ## Roadmap
 
 * [ ] Category-based aggregations
 * [ ] Correlation matrix analysis
-* [ ] Summary CSV report export
 
 ## Requirements
 

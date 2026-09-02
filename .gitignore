@@ -1,7 +1,31 @@
+# Python Caches & Bytecode
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Virtual Environments
 venv/
 .venv/
+env/
+ENV/
+
+# IDE & Editor Configuration
 .idea/
+.vscode/
+
+# Local Environment Variables & Logs
 .env
 *.log
+
+# OS System Clutter
+.DS_Store
+Thumbs.db
+
+# Generated Pipeline Outputs (keeps data/raw_sales.csv tracked)
+data/cleaned_sales.csv
+data/sales_summary.csv
+reports/*.png
+
+# Notebook & Testing Caches
+.ipynb_checkpoints/
+.pytest_cache/
