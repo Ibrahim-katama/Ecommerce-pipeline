@@ -1,0 +1,442 @@
+order_id,customer_name,date,gender,email,phone_number,category,price,quantity,customer_rating,month,sales
+ORD-00001,Mercedes Sim,06/03/2026,-,mercedes.sim83@yahoo.com,(702) 995-8622,Not Known,9.38,2,2.5,June,18.76
+ORD-00002,Aaron Portelli,06/03/2026,Male,aaron.portelli23@yahoo.com,(571) 960-4868,Home,465.25,4,4.2,June,1861.0
+ORD-00003,Dalia Dijoux,06/04/2026,Female,dalia.dijoux49@hotmail.com,(304) 839-3706,Toys,242.5,7,3.6,June,1697.5
+ORD-00004,Leonie Ramdin,06/04/2026,-,Invalid email,(401) 512-4558,Grocery,483.37,4,2.9,June,1933.48
+ORD-00005,Unkown Unkown,06/04/2026,-,zahra.oliver91@outlook.com,(217) 946-9396,Beauty,242.5,5,3.7,June,1212.5
+ORD-00006,Oswald Johnson,06/04/2026,-,oswald.johnson78@gmail.com,(915) 871-1145,Electronics,201.52,5,4.2,June,1007.6
+ORD-00007,Kathleen Johnson,06/04/2026,Female,kathleen.johnson28@gmail.com,(484) 659-5062,Beauty,229.14,1,2.9,June,229.14
+ORD-00008,Jackson Colley,05/05/2026,Male,jackson.colley37@hotmail.com,(954) 430-4048,Beauty,441.57,8,3.0,May,3532.56
+ORD-00009,Khalil Oconnor,05/05/2026,-,Invalid email,(907) 942-0251,Beauty,19.99,9,1.1,May,179.91
+ORD-00010,Isaiah Romero,06/05/2026,Male,isaiah.romero72@icloud.com,Unknown,Beauty,480.87,4,4.4,June,1923.48
+ORD-00011,Tine Zahra,06/05/2026,Male,tine.zahra94@icloud.com,(571) 812-6063,Not Known,141.2,3,4.8,June,423.6
+ORD-00012,Javkhlan Castro,06/05/2026,-,javkhlan.castro86@gmail.com,(704) 761-1563,Grocery,242.5,2,3.9,June,485.0
+ORD-00013,Maktoum Balodis,06/05/2026,-,maktoum.balodis46@icloud.com,(951) 458-3855,Beauty,256.12,6,4.8,June,1536.72
+ORD-00014,Eslam Didier,06/06/2026,Male,eslam.didier45@yahoo.com,(406) 512-6282,Grocery,365.6,6,1.6,June,2193.6
+ORD-00015,Adama Watson,05/05/2026,Female,adama.watson40@tuta.com,(718) 310-8406,Not Known,341.72,5,1.1,May,1708.6
+ORD-00016,Unkown Unkown,06/06/2026,-,hyun-sik.kasmi76@icloud.com,(323) 974-0470,Clothing,387.4,10,3.0,June,3874.0
+ORD-00017,Telma Rivera,06/06/2026,Female,telma.rivera40@outlook.com,(315) 615-0520,Clothing,294.59,8,1.4,June,2356.72
+ORD-00018,Hctor Saeed,06/06/2026,-,héctor.saeed67@gmail.com,(260) 794-3847,Electronics,297.16,6,3.9,June,1782.96
+ORD-00019,Tudor Mintogo,06/07/2026,Male,tudor.mintogo31@hotmail.com,Unknown,Not Known,91.52,5,2.4,June,457.6
+ORD-000012,Heather Kusumawati,05/05/2026,Female,heather.kusumawati78@gmail.com,Unknown,Not Known,300.35,4,4.2,May,1201.4
+ORD-00021,Rowoon Ngong,05/05/2026,Male,ro-woon.ngong29@gmail.com,Unknown,Beauty,249.96,4,1.2,May,999.84
+ORD-00022,Siyuan Peterson,06/07/2026,-,siyuan.peterson36@outlook.com,(330) 654-3962,Grocery,143.12,7,4.5,June,1001.84
+ORD-00023,Faith Wood,06/08/2026,Female,faith.wood73@protonmail.com,(602) 313-4760,Home,242.5,9,1.5,June,2182.5
+ORD-00024,Margot Berhe,06/08/2026,Female,margot.berhe50@hotmail.com,(954) 449-2807,Home,200.26,5,3.6,June,1001.3
+ORD-00025,Henri Itsimaera,06/08/2026,Male,henri.itsimaera95@gmail.com,(972) 859-7465,Home,97.21,4,4.3,June,388.84
+ORD-00026,Boubacar Davis,06/08/2026,-,boubacar.davis3@me.com,(360) 609-2779,Home,437.47,5,2.9,June,2187.35
+ORD-00027,Samuela Zurita,06/08/2026,Male,samuela.zurita38@gmail.com,(727) 958-4471,Clothing,499.7,2,3.2,June,999.4
+ORD-00028,Charlie Bouazza,06/08/2026,-,charlie.bouazza20@outlook.com,(702) 714-9734,Grocery,51.76,7,2.2,June,362.32
+ORD-00029,Unkown Unkown,06/08/2026,-,habiyaremye.haddad35@icloud.com,(330) 696-4696,Clothing,456.76,2,4.5,June,913.52
+ORD-00030,Firuz Andrews,06/09/2026,Male,firuz.andrews20@yahoo.com,(706) 942-0848,Beauty,68.82,1,3.6,June,68.82
+ORD-00031,Finn Benameur,06/09/2026,-,finn.benameur62@outlook.com,(208) 617-1626,Electronics,419.56,5,1.7,June,2097.8
+ORD-00032,Eli Myers,06/09/2026,Male,eli.myers47@gmail.com,(304) 834-8705,Toys,239.34,9,1.9,June,2154.06
+ORD-00033,Joshua Petit,06/09/2026,Male,joshua.petit9@outlook.com,Unknown,Beauty,487.18,6,4.8,June,2923.08
+ORD-00034,Nuwani Abilov,06/09/2026,-,nuwani.abilov13@gmail.com,(305) 934-5827,Grocery,408.77,5,2.8,June,2043.85
+ORD-00035,Unkown Unkown,05/05/2026,-,sakala.dompig34@gmail.com,(713) 732-1413,Electronics,81.15,6,2.1,May,486.9
+ORD-00036,Katherine Buyoya,06/10/2026,-,Invalid email,(605) 828-7996,Grocery,321.15,4,2.4,June,1284.6
+ORD-00037,Zohra Emmanuel,06/10/2026,Female,zohra.emmanuel85@gmail.com,Unknown,Not Known,95.59,7,3.2,June,669.13
+ORD-00038,Guillermo Pioche,06/10/2026,Male,guillermo.pioche2@icloud.com,(513) 356-9698,Beauty,169.03,10,2.9,June,1690.3
+ORD-00039,Isse Leitn,06/10/2026,Male,isse.leitón78@icloud.com,(212) 558-6750,Clothing,242.5,4,3.3,June,970.0
+ORD-00040,Rebecca Serifo,06/11/2026,Female,rebecca.serifo69@gmail.com,(281) 635-7183,Electronics,75.21,1,4.0,June,75.21
+ORD-00041,Wissel Demir,06/11/2026,Female,wissel.demir1@gmail.com,(864) 914-6437,Electronics,147.7,9,1.3,June,1329.3
+ORD-00042,Elizabeth Seumanutafa,06/11/2026,-,Invalid email,(253) 839-8943,Grocery,483.15,4,4.2,June,1932.6
+ORD-00043,Fumihito Bipat,06/11/2026,Male,Invalid email,(216) 784-4457,Toys,107.74,7,4.2,June,754.18
+ORD-00044,Mustafa Coulibaly,06/11/2026,Male,mustafa.coulibaly30@gmail.com,(240) 400-7818,Home,116.25,7,2.1,June,813.75
+ORD-00000,Jacqueline Robbins,06/11/2026,-,jacqueline.robbins61@hotmail.com,(513) 500-6652,Grocery,236.57,5,1.4,June,1182.85
+ORD-00046,Rubn Bukovsk,06/12/2026,Male,rubén.bukovský83@icloud.com,(817) 592-9662,Not Known,68.45,5,2.7,June,342.25
+ORD-00047,Margaret Prokop,06/12/2026,-,margaret.prokop27@gmail.com,(804) 858-4230,Not Known,242.5,2,2.0,June,485.0
+ORD-00048,Unkown Unkown,06/12/2026,Male,Invalid email,(585) 707-6759,Home,28.91,8,3.9,June,231.28
+ORD-00049,Unkown Unkown,06/12/2026,Female,maria.jean-charles35@icloud.com,(318) 435-3397,Home,242.5,3,1.4,June,727.5
+ORD-00050,Angajo Campos,06/13/2026,-,angajo.campos60@icloud.com,(785) 966-1393,Home,367.4,1,4.8,June,367.4
+ORD-00051,Sebastio Tang,06/13/2026,-,sebastião.tang12@gmail.com,(914) 504-8794,Electronics,219.21,2,1.3,June,438.42
+ORD-00052,Yanelis Kravanja,06/13/2026,-,yanelis.kravanja73@icloud.com,(859) 598-3373,Home,482.24,4,4.2,June,1928.96
+ORD-00053,Isireli Mason,06/13/2026,-,isireli.mason37@gmail.com,(407) 375-3934,Electronics,496.93,3,2.8,June,1490.79
+ORD-00056,Sufyan Reverdy,06/14/2026,Male,sufyan.reverdy10@gmail.com,(952) 847-7238,Electronics,432.77,6,3.4,June,2596.62
+ORD-00057,Mahende Mass,06/14/2026,-,mahende.massé46@gmail.com,(770) 252-4713,Electronics,331.38,6,1.6,June,1988.28
+ORD-00058,Olivia Schneider,06/14/2026,Female,olivia.schneider61@gmail.com,(770) 724-2133,Not Known,60.12,10,10.0,June,601.2
+ORD-00059,Bram Pan,06/14/2026,Male,bram.pană39@gmail.com,(601) 641-4336,Toys,37.63,5,1.7,June,188.15
+ORD-00060,Giselle Hackl,06/14/2026,-,giselle.hackl78@icloud.com,(205) 887-1133,Grocery,242.5,10,3.9,June,2425.0
+ORD-00061,Gabrielle Lubenov,06/15/2026,Female,gabrielle.lubenov44@icloud.com,(205) 964-5157,Toys,450.3,2,1.2,June,900.6
+ORD-00062,Angela Dangelo,06/15/2026,-,Invalid email,Unknown,Toys,493.96,9,6.5,June,4445.64
+ORD-00064,Bernadette Faure,05/05/2026,Female,bernadette.faure92@icloud.com,(916) 720-6399,Toys,435.28,10,4.0,May,4352.8
+ORD-00066,Patrcio Hadley,06/15/2026,Male,patrício.hadley25@yahoo.com,(812) 248-2012,Grocery,231.63,6,1.0,June,1389.78
+ORD-00123,Nalwadda Erickson,06/16/2026,Female,nalwadda.erickson40@gmail.com,(202) 969-9878,Beauty,407.81,5,1.1,June,2039.05
+ORD-00070,Christina Majid,06/16/2026,-,Invalid email,(617) 419-2245,Not Known,189.53,3,3.5,June,568.59
+ORD-00071,Geeta Pak,06/16/2026,Female,geeta.pak13@icloud.com,(239) 270-8379,Home,97.73,4,2.4,June,390.92
+ORD-00072,Mamadou Sekin,06/17/2026,-,mamadou.seçkin47@gmail.com,(770) 566-5856,Electronics,242.5,5,2.3,June,1212.5
+ORD-00073,Unkown Unkown,06/17/2026,-,qaavigarssuaq.tufele73@gmail.com,(718) 225-7835,Toys,115.11,6,2.2,June,690.66
+ORD-00074,Yohana Tautolo,06/17/2026,-,yohana.tautolo61@gmail.com,(262) 301-3021,Not Known,446.12,2,3.5,June,892.24
+ORD-00075,Hilda Barrios,06/17/2026,Female,hilda.barrios92@gmail.com,(504) 213-8980,Home,77.56,8,2.3,June,620.48
+ORD-00076,Jhann Roberson,06/17/2026,Male,Invalid email,(909) 650-6706,Electronics,353.67,8,2.8,June,2829.36
+ORD-00077,Unkown Unkown,06/17/2026,-,renato.olsen88@gmail.com,(810) 443-5464,Toys,353.9,5,3.5,June,1769.5
+ORD-00078,Nelson Akba,06/18/2026,Male,nelson.akbaş68@icloud.com,(410) 292-4321,Home,308.55,5,0.0,June,1542.75
+ORD-00079,Raphal Bgot,06/18/2026,-,raphaël.bégot92@gmail.com,(970) 489-7260,Beauty,480.53,5,2.3,June,2402.65
+ORD-00081,Mwanaidi Mathew,06/18/2026,-,mwanaidi.mathew61@gmail.com,(765) 946-8441,Clothing,249.78,10,1.5,June,2497.8
+ORD-00082,Namiq Silva,06/18/2026,-,namiq.silva84@icloud.com,(616) 968-0928,Electronics,448.35,10,2.2,June,4483.5
+ORD-00083,Sok Francis,06/19/2026,-,sok.francis3@gmail.com,(918) 214-0502,Not Known,49.47,9,4.1,June,445.23
+ORD-00084,Hawa Muchiri,06/19/2026,Female,hawa.muchiri35@hotmail.com,(602) 962-4885,Home,231.29,5,3.9,June,1156.45
+ORD-00085,Domingo Turk,06/19/2026,-,domingo.turk33@aol.com,Unknown,Clothing,205.21,8,1.0,June,1641.68
+ORD-00086,Sulaiman Querrard,06/19/2026,-,Invalid email,(814) 877-0341,Clothing,16.62,5,2.5,June,83.1
+ORD-00087,Asdkjh,06/19/2026,Male,huthaifa.santoro71@gmail.com,(646) 432-0961,Beauty,276.74,1,4.4,June,276.74
+ORD-00088,Ulugbek Marksdttir,06/19/2026,Male,ulugbek.markúsdóttir66@gmail.com,(202) 769-6074,Not Known,489.03,8,3.9,June,3912.24
+ORD-00089,Zahra Nichols,06/20/2026,Female,zahra.nichols80@aol.com,(727) 235-0011,Home,87.54,7,4.7,June,612.78
+ORD-00090,Bartomiej Vujovi,06/20/2026,Male,bartłomiej.vujović66@icloud.com,(813) 873-5285,Not Known,343.48,4,1.8,June,1373.92
+ORD-00091,Hortnsia Kralj,06/20/2026,Female,horténsia.kralj11@outlook.com,(407) 877-7412,Not Known,458.45,10,4.5,June,4584.5
+ORD-00092,Tamer Maono,06/20/2026,-,tamer.maono90@icloud.com,(304) 481-2549,Not Known,22.6,3,0.0,June,67.8
+ORD-00094,Cosmin Henderson,06/21/2026,-,cosmin.henderson78@aol.com,(617) 463-0043,Grocery,147.88,7,1.1,June,1035.16
+ORD-00095,Teresa Cajar,06/21/2026,-,teresa.cajar49@icloud.com,(203) 596-7790,Grocery,239.4,5,2.8,June,1197.0
+ORD-00096,Haile Julius,06/21/2026,Male,haile.julius52@hotmail.com,Unknown,Electronics,128.49,9,4.0,June,1156.41
+ORD-00097,Blessing Halldrsdttir,06/21/2026,Female,blessing.halldórsdóttir10@gmail.com,(617) 876-3777,Grocery,460.19,8,3.9,June,3681.52
+ORD-00098,Michelle Jung,06/21/2026,-,michelle.jung45@gmail.com,(509) 585-5634,Clothing,188.67,2,2.4,June,377.34
+ORD-00101,Giovanni Yaakov,06/22/2026,-,giovanni.yaakov85@icloud.com,(404) 380-0118,Grocery,200.78,1,2.8,June,200.78
+ORD-00102,Unkown Unkown,06/22/2026,Male,cyril.grimaldi7@icloud.com,(808) 526-6751,Clothing,446.75,5,2.8,June,2233.75
+ORD-00103,Tasi Ramkissoon,06/22/2026,Female,tasi.ramkissoon33@hotmail.com,(251) 238-0068,Grocery,84.07,6,3.7,June,504.42
+ORD-00104,Rosa Safwat,06/22/2026,-,rosa.safwat66@icloud.com,(281) 561-4309,Clothing,233.62,3,2.2,June,700.86
+ORD-00105,Christina Malkhasyan,06/23/2026,Female,christina.malkhasyan77@outlook.com,(415) 564-7977,Toys,484.14,3,2.1,June,1452.42
+ORD-00106,Adam Susanto,06/23/2026,Male,Invalid email,Unknown,Beauty,242.5,2,3.5,June,485.0
+ORD-00107,Daniele Cecilia,06/23/2026,-,daniele.cecilia83@gmail.com,(248) 990-7966,Not Known,140.4,8,2.3,June,1123.2
+ORD-00108,Mansa Morales,06/23/2026,Female,Invalid email,Unknown,Toys,109.13,5,2.1,June,545.65
+ORD-00109,Guillaume Dawood,06/23/2026,-,guillaume.dawood63@gmail.com,(404) 961-2591,Home,195.66,5,4.9,June,978.3
+ORD-00110,Leticia Jacobsson,06/24/2026,Female,leticia.jacobsson71@fastmail.com,(619) 270-7742,Grocery,92.48,3,1.9,June,277.44
+ORD-00111,Bobur Gama,06/24/2026,Male,bobur.gama21@icloud.com,(718) 679-1705,Electronics,333.89,9,3.4,June,3005.01
+ORD-00112,Christian Soteriou,06/24/2026,Male,christian.soteriou21@gmail.com,(804) 485-7294,Electronics,391.76,2,2.8,June,783.52
+ORD-00113,Bouasone Kanto,05/05/2026,-,bouasone.kanto17@gmail.com,(312) 782-0471,Clothing,264.83,9,4.1,May,2383.47
+ORD-00114,Ivy Phillips,06/24/2026,-,ivy.phillips81@gmail.com,(559) 261-0549,Toys,241.84,9,2.6,June,2176.56
+ORD-00115,Yao Zaanoun,06/24/2026,Male,yao.zaanoun90@me.com,(661) 858-8244,Clothing,42.54,9,1.9,June,382.86
+ORD-00116,Rim Flores,05/05/2026,Female,rim.flores92@gmail.com,(509) 367-8868,Toys,364.72,5,1.4,May,1823.6
+ORD-00117,Luka Cissokho,06/25/2026,Male,luka.cissokho96@gmail.com,(858) 372-7003,Clothing,443.62,3,4.1,June,1330.86
+ORD-00118,Jonathan Twaissi,06/25/2026,-,jonathan.twaissi69@gmail.com,(678) 807-5318,Clothing,90.21,9,2.3,June,811.89
+ORD-00119,Josiane Salimov,06/25/2026,Female,Invalid email,Unknown,Home,380.43,7,3.6,June,2663.01
+ORD-00120,Pascal Torres,06/25/2026,-,pascal.torres53@gmail.com,(205) 530-6632,Toys,321.83,8,3.1,June,2574.64
+ORD-00121,Patrick Bwalya,06/26/2026,Male,patrick.bwalya77@icloud.com,(717) 777-2772,Clothing,346.97,5,3.9,June,1734.85
+ORD-00122,Asdkjh,05/05/2026,Male,smart.guzmán61@icloud.com,(254) 368-6504,Beauty,140.33,3,2.9,May,420.99
+ORD-00124,Mercy Sheehan,06/26/2026,Female,mercy.sheehan93@gmail.com,(562) 716-7018,Beauty,425.23,4,2.7,June,1700.92
+ORD-00126,Guri Vanegas,05/05/2026,Female,guðrið.vanegas87@aol.com,(818) 540-0243,Clothing,137.11,10,5.0,May,1371.1
+ORD-00127,Marcus Martino,06/27/2026,Male,marcus.martino83@gmail.com,(603) 249-1930,Grocery,98.36,9,3.5,June,885.24
+ORD-00128,Galuh Erjav,06/27/2026,-,galuh.žerjav61@gmail.com,(719) 910-9883,Electronics,119.21,3,1.0,June,357.63
+ORD-00129,Annabelle Tutein,06/27/2026,-,annabelle.tutein5@proton.me,(763) 336-9246,Electronics,209.78,10,6.5,June,2097.8
+ORD-00130,Ricardo Colon,06/27/2026,Male,ricardo.colon31@gmail.com,(508) 453-3746,Not Known,345.38,6,2.7,June,2072.28
+ORD-00131,Lisa Ghariani,06/27/2026,-,lisa.ghariani50@gmail.com,(610) 549-9064,Beauty,57.43,9,4.8,June,516.87
+ORD-00132,Melvin Sabir,06/27/2026,Male,melvin.sabir38@gmail.com,(281) 419-0103,Electronics,461.94,5,1.7,June,2309.7
+ORD-00134,Alphonso Martinez,06/28/2026,-,alphonso.martinez97@icloud.com,(661) 750-6131,Electronics,282.33,4,4.3,June,1129.32
+ORD-00135,Thomas Jennings,06/28/2026,-,thomas.jennings45@icloud.com,(954) 606-5032,Toys,242.5,10,2.9,June,2425.0
+ORD-00137,Unkown Unkown,06/28/2026,-,Invalid email,(704) 525-0304,Home,421.43,7,2.9,June,2950.01
+ORD-00138,Jarin Ranasinghe,05/05/2026,Female,jarin.ranasinghe87@gmail.com,(573) 731-4344,Home,242.5,3,2.8,May,727.5
+ORD-00139,Lucy Ballantine,06/29/2026,Female,lucy.ballantine54@outlook.com,(302) 874-3774,Beauty,216.82,7,1.9,June,1517.74
+ORD-00140,Ngozi Ekane,06/29/2026,-,ngozi.ekane63@icloud.com,(719) 418-5925,Not Known,30.52,7,6.5,June,213.64
+ORD-00141,Valerie Aljohani,06/29/2026,Female,valerie.al-johani52@yahoo.com,(813) 655-6357,Grocery,319.58,6,2.6,June,1917.48
+ORD-00142,Milada Cole,05/05/2026,-,milada.cole92@icloud.com,(772) 646-7371,Beauty,98.83,9,2.5,May,889.47
+ORD-00143,Haya Nicolaidis,06/30/2026,Female,haya.nicolaidis24@gmail.com,(205) 253-3531,Toys,155.0,8,4.3,June,1240.0
+ORD-00144,Jeannette Xu,06/30/2026,Female,jeannette.xu68@gmail.com,(518) 469-8179,Home,363.42,7,4.0,June,2543.94
+ORD-00146,Athian Debnath,06/30/2026,-,athian.debnath30@gmail.com,(919) 843-6953,Beauty,242.5,8,4.2,June,1940.0
+ORD-00147,Matthew Perkins,06/30/2026,Male,matthew.perkins58@gmail.com,(772) 354-1145,Not Known,210.1,5,2.9,June,1050.5
+ORD-00148,Zora Alhashimi,07/01/2026,-,zora.al-hashimi79@gmail.com,(913) 415-8773,Grocery,294.27,5,3.8,July,1471.35
+ORD-00149,Unkown Unkown,07/01/2026,-,xiang.ayala4@icloud.com,(309) 410-3758,Home,36.91,3,3.5,July,110.73
+ORD-00150,Oi Yee Grygorenko,07/01/2026,-,Invalid email,Unknown,Not Known,242.5,4,2.8,July,970.0
+ORD-00151,Ana Benmalek,05/05/2026,Female,ana.benmalek63@icloud.com,(334) 371-4668,Home,89.74,2,1.1,May,179.48
+ORD-00152,Hanum Renaud,07/01/2026,-,Invalid email,(901) 953-8144,Grocery,393.15,3,1.7,July,1179.45
+ORD-00153,Jamilah Campana,05/05/2026,-,jamilah.campana76@icloud.com,(816) 817-1575,Not Known,458.6,9,4.2,May,4127.4
+ORD-00154,Frederick Yaalon,07/02/2026,Male,frederick.yaalon13@gmail.com,(361) 829-5043,Electronics,196.23,10,3.5,July,1962.3
+ORD-00155,Violet Alizada,07/02/2026,-,violet.alizada42@gmail.com,(808) 458-2285,Grocery,263.97,9,10.0,July,2375.73
+ORD-00156,Sopheak Kairys,07/02/2026,Male,sopheak.kairys60@icloud.com,(904) 404-6831,Clothing,406.3,3,2.4,July,1218.9
+ORD-00157,Wangechi Enchev,07/02/2026,Female,wangechi.enchev2@gmail.com,(281) 972-6609,Grocery,333.13,5,2.7,July,1665.65
+ORD-00158,Josephine Alamiri,07/03/2026,Female,josephine.al-amiri46@gmail.com,(202) 894-5577,Home,242.5,4,3.5,July,970.0
+ORD-00159,Linda Toi,07/02/2026,Female,linda.tošić37@gmail.com,(954) 504-7536,Home,144.51,1,3.4,July,144.51
+ORD-00160,Lisiate Mokalake,07/03/2026,Male,lisiate.mokalake51@icloud.com,(251) 651-3557,Grocery,190.8,5,3.1,July,954.0
+ORD-00161,Nicole Simon,05/05/2026,-,nicole.simon87@gmail.com,(405) 287-6182,Toys,468.71,2,2.8,May,937.42
+ORD-00164,Hendrik Fettah,07/03/2026,Male,hendrik.fettah36@yahoo.com,(602) 433-9860,Grocery,495.05,9,2.2,July,4455.45
+ORD-00166,Adrienne Griffin,07/04/2026,-,adrienne.griffin93@hotmail.com,(202) 455-0090,Home,381.56,8,2.8,July,3052.48
+ORD-00167,Rachel Tum,07/04/2026,-,rachel.tum61@yahoo.com,(206) 879-6096,Clothing,408.15,5,1.1,July,2040.75
+ORD-00168,Luna Kaneko,07/04/2026,Female,luna.kaneko74@gmail.com,(209) 872-8344,Not Known,411.32,5,2.5,July,2056.6
+ORD-00169,Kholid Anderson,07/04/2026,-,kholid.anderson80@gmail.com,(623) 694-5547,Not Known,496.84,6,2.6,July,2981.04
+ORD-00170,Ronald Byrd,07/05/2026,Male,ronald.byrd9@gmail.com,(214) 855-8557,Home,238.8,3,2.9,July,716.4
+ORD-00171,Pougouli Harris,07/05/2026,-,pougouli.harris4@gmail.com,(214) 283-5491,Home,359.6,3,2.3,July,1078.8
+ORD-00172,Gregory Elcock,07/05/2026,-,gregory.elcock81@gmail.com,(318) 555-8967,Home,128.1,3,2.8,July,384.3
+ORD-00173,Amira Matemba,05/05/2026,Female,amira.matemba11@gmail.com,Unknown,Home,407.86,9,2.4,May,3670.74
+ORD-00174,Elina Gomez,07/05/2026,-,elina.gomez65@icloud.com,(505) 262-5151,Grocery,271.12,5,2.5,July,1355.6
+ORD-00175,Monica Larsen,07/06/2026,-,monica.larsen16@gmail.com,(304) 500-2144,Home,123.52,9,2.0,July,1111.68
+ORD-00176,Adam Bells,07/06/2026,-,adam.bells92@icloud.com,Unknown,Home,494.52,4,4.2,July,1978.08
+ORD-00177,Rani Thomas,07/06/2026,Male,Invalid email,(412) 470-9590,Not Known,290.09,100,2.8,July,29009.0
+ORD-00178,Mariah Mukasa,07/06/2026,Female,mariah.mukasa29@gmail.com,(213) 607-7996,Home,23.36,2,2.2,July,46.72
+ORD-00180,Philippe Nakku,07/07/2026,Male,philippe.nakku57@gmail.com,(419) 978-6392,Grocery,70.55,4,3.9,July,282.2
+ORD-00181,Margarete Butler,07/07/2026,-,margarete.butler68@gmail.com,(336) 541-3309,Grocery,191.11,3,2.1,July,573.33
+ORD-00182,Lukusa Edri,07/07/2026,Male,Invalid email,(515) 919-4017,Grocery,280.75,10,0.0,July,2807.5
+ORD-00183,Alfredo Ranjbar,07/07/2026,Male,alfredo.ranjbar16@gmail.com,(510) 787-3667,Grocery,211.07,4,2.8,July,844.28
+ORD-00184,Fernando Terry,07/07/2026,Male,fernando.terry27@outlook.com,(702) 417-9098,Not Known,474.34,1,3.2,July,474.34
+ORD-00185,Unkown Unkown,07/08/2026,-,lamin.stevens88@gmail.com,(865) 662-7021,Beauty,83.84,7,4.2,July,586.88
+ORD-00186,Marcus Gabay,07/08/2026,Male,marcus.gabay95@gmail.com,Unknown,Toys,491.23,3,1.6,July,1473.69
+ORD-00187,Maya Iheanacho,07/08/2026,Female,maya.iheanacho87@icloud.com,(561) 894-1930,Grocery,46.05,6,4.5,July,276.3
+ORD-00188,Sushmita Kimpolo,07/08/2026,Female,sushmita.kimpolo41@hotmail.com,(918) 800-1328,Clothing,236.38,4,4.0,July,945.52
+ORD-00189,Thomson Seerattan,07/08/2026,Male,thomson.seerattan65@gmail.com,(319) 828-1241,Not Known,242.5,6,2.8,July,1455.0
+ORD-00190,Zeinabou Eriksen,07/08/2026,-,zeinabou.eriksen17@gmail.com,(860) 391-8847,Home,14.41,9,3.1,July,129.69
+ORD-00191,Graciela Zedginidze,07/09/2026,-,graciela.zedginidze20@gmail.com,(412) 264-9634,Not Known,97.31,6,4.2,July,583.86
+ORD-00192,Rita Fuchs,07/09/2026,Female,rita.fuchs27@hotmail.com,(915) 538-1319,Not Known,305.14,7,3.2,July,2135.98
+ORD-00193,Giulia Chiriac,07/09/2026,-,giulia.chiriac41@hotmail.com,(916) 952-2325,Beauty,198.88,6,3.2,July,1193.28
+ORD-00194,Chloe Te Awa,07/09/2026,-,Invalid email,(212) 432-0547,Toys,174.05,4,2.7,July,696.2
+ORD-00196,Alemayehu Prez,05/05/2026,-,alemayehu.pérez95@gmail.com,(305) 252-2203,Toys,358.55,3,5.0,May,1075.65
+ORD-00197,Eldin Benmohamed,07/10/2026,Male,Invalid email,Unknown,Home,246.94,1,1.8,July,246.94
+ORD-00198,Tufuga Octave,07/10/2026,-,tufuga.octave70@gmail.com,(210) 774-8239,Home,498.12,8,1.3,July,3984.96
+ORD-00199,Fatuma Morales,07/10/2026,-,fatuma.morales4@icloud.com,(253) 830-2018,Clothing,49.42,4,3.0,July,197.68
+ORD-00200,Unkown Unkown,07/10/2026,-,azza.prudent77@gmail.com,(215) 592-9577,Clothing,148.42,7,3.3,July,1038.94
+ORD-00201,Lama Kgosiemang,07/10/2026,-,lama.kgosiemang1@icloud.com,(915) 834-4387,Grocery,111.4,2,4.0,July,222.8
+ORD-00202,Miguel Pun,07/11/2026,-,miguel.păun54@gmail.com,(972) 687-9027,Beauty,99.04,9,2.8,July,891.36
+ORD-00203,Octavio Nunes,07/11/2026,-,octavio.nunes82@charter.net,(269) 293-2225,Electronics,29.3,9,1.3,July,263.7
+ORD-00204,Ellen Hewitt,07/11/2026,Female,ellen.hewitt4@icloud.com,(813) 817-0420,Toys,65.93,4,4.6,July,263.72
+ORD-00205,Olusola Castillo,07/11/2026,-,olusola.castillo18@gmail.com,Unknown,Clothing,495.73,5,2.4,July,2478.65
+ORD-00206,Gundega Al Kooheji,07/11/2026,-,Invalid email,(915) 594-9284,Clothing,202.99,5,4.0,July,1014.95
+ORD-00207,Hussain Akech,07/11/2026,-,hussain.akech9@gmail.com,(619) 719-2993,Electronics,17.92,5,2.8,July,89.6
+ORD-00208,Nina Sifaw Siala,07/12/2026,-,Invalid email,(617) 424-0791,Electronics,245.09,6,3.8,July,1470.54
+ORD-00209,Margarete Abu Laban,07/12/2026,Female,Invalid email,(804) 818-9963,Beauty,442.32,3,1.7,July,1326.96
+ORD-00210,Nusaiba Nash,07/12/2026,Female,nusaiba.nash32@gmail.com,Unknown,Beauty,66.55,5,1.2,July,332.75
+ORD-00212,Khensani Griffin,07/12/2026,Female,khensani.griffin44@gmail.com,Unknown,Electronics,405.12,7,2.8,July,2835.84
+ORD-00213,Unkown Unkown,07/13/2026,-,justin.shillingford87@gmail.com,(337) 622-6060,Clothing,327.14,2,2.9,July,654.28
+ORD-00214,Beatriz Essomba,07/13/2026,Female,Invalid email,(228) 604-3712,Clothing,121.13,5,1.3,July,605.65
+ORD-00215,Aom Anwar,07/13/2026,Female,aom.anwar22@icloud.com,(727) 598-0295,Toys,486.38,5,2.9,July,2431.9
+ORD-00216,Zachariah Sharma,07/13/2026,Male,zachariah.sharma11@yahoo.com,(801) 366-4767,Toys,455.91,3,2.2,July,1367.73
+ORD-00217,Venla Mattila,07/13/2026,Female,Invalid email,Unknown,Clothing,41.56,7,1.4,July,290.92
+ORD-00219,Yassira Pintr,05/05/2026,-,yassira.pintér27@yahoo.com,(727) 696-9923,Not Known,211.87,5,4.7,May,1059.35
+ORD-00221,Samuel Marshall,07/14/2026,Male,samuel.marshall24@gmail.com,(719) 566-8278,Toys,424.2,6,2.4,July,2545.2
+ORD-00222,Mona Peltonen,05/05/2026,Female,mona.peltonen26@icloud.com,(915) 782-7449,Beauty,361.91,9,3.6,May,3257.19
+ORD-00223,Amlie Kharchenko,07/14/2026,-,Invalid email,(713) 315-8724,Home,374.88,2,1.1,July,749.76
+ORD-00224,Bertrand Abdou,07/15/2026,-,bertrand.abdou19@gmail.com,Unknown,Grocery,256.8,7,3.3,July,1797.6
+ORD-00225,Pailin Byk,07/15/2026,-,pailin.büyük4@aol.com,(203) 344-4615,Home,484.64,1,1.4,July,484.64
+ORD-00226,Lynette Palumbo,07/15/2026,Female,lynette.palumbo14@gmail.com,(314) 478-1291,Not Known,133.92,2,3.4,July,267.84
+ORD-00227,Michael Mrton,07/15/2026,Male,michael.márton23@gmail.com,(512) 677-3809,Electronics,406.21,6,2.3,July,2437.26
+ORD-00228,Eqaluaq Alfitouri,07/15/2026,-,eqaluaq.al-fitouri74@gmail.com,(206) 233-9039,Grocery,291.17,5,2.0,July,1455.85
+ORD-00229,Bacar Caill,07/16/2026,Male,bacar.caillé89@gmail.com,(863) 668-3821,Toys,355.19,2,1.4,July,710.38
+ORD-00230,Namgyal Jarallah,07/16/2026,-,namgyal.jarallah26@gmail.com,(706) 907-1054,Home,58.22,5,4.1,July,291.1
+ORD-00231,Chamroeun Antoniadis,07/16/2026,Male,chamroeun.antoniadis4@outlook.com,(573) 904-6646,Grocery,276.84,1,3.3,July,276.84
+ORD-00232,Ashkan Lawrence,05/05/2026,Male,ashkan.lawrence4@gmail.com,(972) 809-5064,Clothing,320.5,10,10.0,May,3205.0
+ORD-00233,Fiona Bakayoko,07/16/2026,-,fiona.bakayoko23@outlook.com,(501) 538-9459,Electronics,275.92,7,3.5,July,1931.44
+ORD-00234,Henriette Sekuli,07/17/2026,Female,henriette.sekulić27@gmail.com,(916) 208-3231,Home,470.09,3,4.1,July,1410.27
+ORD-00235,Andrea Nugraheni,05/05/2026,-,andrea.nugraheni48@gmail.com,(218) 218-9873,Beauty,359.04,2,2.6,May,718.08
+ORD-00236,Murimi Fuentes,07/17/2026,Male,Invalid email,(716) 474-1670,Electronics,129.8,7,2.0,July,908.6
+ORD-00237,Olga Barghouthi,07/17/2026,Female,olga.barghouthi18@icloud.com,(608) 438-6930,Beauty,26.94,2,2.4,July,53.88
+ORD-00238,Camille Amaral,07/17/2026,-,camille.amaral14@gmail.com,(815) 588-6360,Clothing,326.35,6,2.4,July,1958.1
+ORD-00239,Luisa Gordon,07/17/2026,Female,luisa.gordon31@gmail.com,(704) 914-6725,Toys,470.94,1,4.0,July,470.94
+ORD-00240,Anna Moutombi,07/18/2026,Female,anna.moutombi21@gmail.com,(916) 248-6503,Beauty,41.57,1,2.8,July,41.57
+ORD-00241,Ater Ots,07/18/2026,Female,Invalid email,(317) 559-6951,Toys,187.86,6,3.9,July,1127.16
+ORD-00243,Thu Membreo,07/18/2026,-,thu.membreño30@gmail.com,(773) 893-2505,Toys,194.98,5,2.9,July,974.9
+ORD-00244,Maj Dixon,07/18/2026,Female,maj.dixon18@gmail.com,Unknown,Grocery,245.02,100,2.7,July,24502.0
+ORD-00245,Hassan Sgeirsson,07/18/2026,Male,hassan.ásgeirsson89@icloud.com,(913) 413-4191,Grocery,410.31,8,1.8,July,3282.48
+ORD-00246,Stephen Owens,05/05/2026,Male,stephen.owens19@gmail.com,(312) 270-8205,Grocery,15.81,10,2.6,May,158.1
+ORD-00247,Trevor Kardava,07/19/2026,Male,trevor.kardava81@yahoo.com,(940) 498-5931,Home,343.13,2,2.8,July,686.26
+ORD-00248,Eerik Co,07/19/2026,Male,eerik.co80@icloud.com,(912) 347-3967,Grocery,114.67,3,1.5,July,344.01
+ORD-00249,Albert Hofer,07/19/2026,-,albert.hofer50@icloud.com,(405) 672-8295,Home,242.5,2,1.7,July,485.0
+ORD-00250,Lars Stanley,07/20/2026,-,lars.stanley77@hotmail.com,(202) 882-7699,Beauty,248.01,10,2.6,July,2480.1
+ORD-00251,Sione Samaroo,07/20/2026,Female,sione.samaroo39@gmail.com,(805) 376-7779,Clothing,343.28,4,3.9,July,1373.12
+ORD-00252,Laima Johansson,05/05/2026,Female,Invalid email,(605) 405-9531,Clothing,121.83,5,4.0,May,609.15
+ORD-00253,Orlando Lejeune,07/20/2026,Male,orlando.lejeune27@icloud.com,(706) 789-0050,Grocery,386.22,9,1.4,July,3475.98
+ORD-00254,Steven Chun,07/20/2026,Male,steven.chun67@hotmail.com,(509) 681-0540,Home,473.1,2,3.6,July,946.2
+ORD-00255,Carmen Irakoze,07/20/2026,Female,carmen.irakoze6@yahoo.com,(515) 691-9169,Grocery,17.06,1,2.2,July,17.06
+ORD-00257,Evelyne Ndaitwah,07/21/2026,Female,evelyne.ndaitwah30@gmail.com,Unknown,Beauty,80.21,2,2.8,July,160.42
+ORD-00258,Oluwole Boukhari,07/21/2026,-,Invalid email,(561) 546-4096,Home,105.79,2,3.6,July,211.58
+ORD-00259,Sylviane John,07/21/2026,-,sylviane.john92@gmail.com,(614) 318-5256,Beauty,234.74,5,4.0,July,1173.7
+ORD-00260,Gabriela Bagayoko,07/21/2026,Female,gabriela.bagayoko90@gmail.com,(718) 642-1052,Electronics,61.29,8,1.2,July,490.32
+ORD-00261,Orsolya Pierre,05/05/2026,-,orsolya.pierre15@gmail.com,(325) 908-4055,Beauty,242.5,8,1.3,May,1940.0
+ORD-00262,Isabel Jozi,07/22/2026,Female,isabel.jozić75@gmail.com,(402) 499-0196,Electronics,202.4,7,1.9,July,1416.8
+ORD-00263,Anthony Dennis,07/22/2026,Male,anthony.dennis40@gmail.com,(480) 663-7683,Clothing,91.62,9,2.8,July,824.58
+ORD-00264,Gloria Karimou,07/22/2026,-,gloria.karimou97@gmail.com,(513) 350-8560,Electronics,191.01,8,2.4,July,1528.08
+ORD-00265,Roxana Imamovi,07/22/2026,-,roxana.imamović81@yahoo.com,(303) 564-5481,Home,249.49,5,3.4,July,1247.45
+ORD-00266,Alexis Iqbal,07/22/2026,-,alexis.iqbal92@hotmail.com,(202) 849-3302,Grocery,348.84,8,4.7,July,2790.72
+ORD-00267,Natalia Pereyra,07/23/2026,-,natalia.pereyra56@gmail.com,(915) 919-4118,Beauty,394.01,9,3.0,July,3546.09
+ORD-00268,Anas Berg,07/23/2026,Female,anaïs.berg15@hotmail.com,(814) 415-6744,Grocery,32.77,6,2.1,July,196.62
+ORD-00270,Maximilin Bernard,07/23/2026,-,maximilián.bernard91@gmail.com,(786) 693-8202,Electronics,101.4,4,3.9,July,405.6
+ORD-00271,Vlado Hagen,07/23/2026,-,vlado.hagen74@icloud.com,(508) 754-1797,Home,289.25,8,3.3,July,2314.0
+ORD-00272,Ignacio Cordero,05/05/2026,Male,ignacio.cordero76@icloud.com,(415) 451-9693,Not Known,289.55,9,3.5,May,2605.95
+ORD-00274,Unkown Unkown,07/24/2026,Male,lubona.badiane41@icloud.com,(202) 389-9241,Home,197.94,5,4.2,July,989.7
+ORD-00275,Janet Nii,07/24/2026,Female,janet.nii20@yahoo.com,(714) 683-7115,Home,229.59,2,2.4,July,459.18
+ORD-00276,Renato Oufkir,07/24/2026,-,renato.oufkir83@gmail.com,(805) 210-1270,Home,24.25,10,2.1,July,242.5
+ORD-00277,Zaleha Mickala,07/25/2026,Female,zaleha.mickala88@gmail.com,(813) 900-1617,Grocery,32.58,7,2.5,July,228.06
+ORD-00279,Margareta Silbanuz,07/25/2026,-,margareta.silbanuz91@icloud.com,(702) 307-3997,Beauty,290.32,7,1.3,July,2032.24
+ORD-00280,Noemi Emmanuel,07/25/2026,-,noemi.emmanuel79@icloud.com,(775) 729-1741,Electronics,205.96,5,2.7,July,1029.8
+ORD-00281,Ingrid Monik,07/25/2026,Female,ingrid.močnik31@hotmail.com,(904) 300-4090,Beauty,177.29,6,2.4,July,1063.74
+ORD-00282,Chakkrit Elstad,07/25/2026,-,chakkrit.elstad23@gmail.com,(317) 910-2717,Toys,38.02,5,4.4,July,190.1
+ORD-00283,Stephanie Schuster,07/26/2026,Female,Invalid email,(501) 724-1943,Beauty,117.58,8,2.3,July,940.64
+ORD-00285,Eric Al Khaja,07/26/2026,-,Invalid email,(571) 324-6645,Home,111.4,3,3.6,July,334.2
+ORD-00286,Carol Siyam,07/26/2026,-,carol.siyam19@gmail.com,(504) 483-6398,Not Known,140.24,4,3.5,July,560.96
+ORD-00287,Zahra Edstrm,07/26/2026,Female,zahra.edström76@outlook.com,(714) 453-9283,Beauty,195.74,6,3.8,July,1174.44
+ORD-00288,Unkown Unkown,07/26/2026,Female,Invalid email,(712) 748-8520,Toys,408.82,5,2.8,July,2044.1
+ORD-00289,Milagros Ruiz,07/27/2026,Female,milagros.ruiz35@icloud.com,(214) 601-8778,Clothing,87.95,3,2.8,July,263.85
+ORD-00291,Georgina Khatun,05/05/2026,Female,georgina.khatun14@outlook.com,(786) 744-7060,Electronics,290.87,3,4.0,May,872.61
+ORD-00292,Agnete Raramuri,07/27/2026,-,agnete.raramuri48@gmail.com,(719) 818-8238,Home,80.6,6,2.8,July,483.6
+ORD-00293,Ghada Luafutu,07/27/2026,-,ghada.luafutu77@icloud.com,(415) 844-1004,Electronics,364.89,2,3.6,July,729.78
+ORD-00294,Kristiina Mae,07/28/2026,-,kristiina.mae88@gmail.com,(813) 932-8365,Home,383.62,1,2.8,July,383.62
+ORD-00295,Gempo Faupula,07/28/2026,-,gempo.faupula38@gmail.com,(651) 647-1284,Clothing,91.66,8,1.9,July,733.28
+ORD-00296,Justin Ignatiev,07/28/2026,-,justin.ignatiev87@outlook.com,(651) 427-2849,Grocery,345.81,5,4.8,July,1729.05
+ORD-00298,Khamphout Espinoza,07/28/2026,Male,khamphout.espinoza16@icloud.com,(713) 995-2658,Toys,71.0,5,4.1,July,355.0
+ORD-00299,Ricardo Karu,07/28/2026,-,ricardo.karu24@icloud.com,(518) 520-3231,Home,418.17,1,2.5,July,418.17
+ORD-00300,Preeyaporn Sambu,07/29/2026,-,preeyaporn.sambu46@gmail.com,(805) 436-1274,Electronics,110.74,9,2.8,July,996.66
+ORD-00302,Gregory Ramos,07/29/2026,Male,gregory.ramos77@gmail.com,(907) 913-9391,Home,11.22,1,3.2,July,11.22
+ORD-00303,Joachim Ahamat,07/29/2026,Male,joachim.ahamat5@me.com,(619) 823-6313,Toys,364.54,8,1.9,July,2916.32
+ORD-00304,Jonathan Ramdin,07/29/2026,Male,Invalid email,(714) 352-8680,Electronics,242.5,8,1.2,July,1940.0
+ORD-00305,Brittany Callow,05/05/2026,-,brittany.callow47@yahoo.com,Unknown,Home,104.33,7,4.8,May,730.31
+ORD-00306,Unkown Unkown,07/30/2026,Male,Invalid email,(915) 357-0464,Electronics,183.55,1,4.0,July,183.55
+ORD-00307,Erick Le Bihan,05/05/2026,-,Invalid email,(904) 608-6023,Grocery,129.28,3,4.7,May,387.84
+ORD-00308,Erick Nasr,07/30/2026,Male,erick.nasr6@gmail.com,(330) 328-7754,Electronics,138.87,1,4.4,July,138.87
+ORD-00309,Meera Antunovi,07/31/2026,Female,meera.antunović47@hotmail.com,(240) 262-6161,Beauty,406.64,1,1.1,July,406.64
+ORD-00310,Mary Morgan,05/05/2026,Female,mary.morgan3@gmail.com,(480) 646-4794,Electronics,458.28,6,1.8,May,2749.68
+ORD-00311,Daniel Barton,07/31/2026,Male,daniel.barton11@gmail.com,(571) 801-3363,Beauty,342.41,6,3.3,July,2054.46
+ORD-00312,Unkown Unkown,07/31/2026,Male,charles.vorontsov68@icloud.com,Unknown,Home,380.79,9,1.4,July,3427.11
+ORD-00314,Dnis Pereira,07/31/2026,Male,dênis.pereira94@yahoo.com,(914) 714-6555,Beauty,84.56,1,3.7,July,84.56
+ORD-00315,Unkown Unkown,08/01/2026,-,rodney.latif89@gmail.com,(832) 878-0187,Beauty,88.1,5,2.8,August,440.5
+ORD-00316,Margaret Simonsen,08/01/2026,-,margaret.simonsen5@gmail.com,(224) 588-0919,Grocery,94.08,6,4.1,August,564.48
+ORD-00317,Spiwe Gakou,08/01/2026,-,Invalid email,(516) 689-6893,Home,301.51,9,3.4,August,2713.59
+ORD-00319,Crystal Cohen,08/01/2026,-,crystal.cohen96@gmail.com,(810) 209-7583,Not Known,389.05,5,1.6,August,1945.25
+ORD-00320,Sergio Luna,08/02/2026,-,sergio.luna57@icloud.com,Unknown,Toys,488.36,8,2.3,August,3906.88
+ORD-00321,Unkown Unkown,08/02/2026,Female,sopha.baumann64@gmail.com,(731) 496-7396,Home,242.5,3,4.0,August,727.5
+ORD-00322,Salah Paulauskas,08/02/2026,Male,salah.paulauskas33@gmail.com,(212) 392-9557,Home,60.85,8,2.2,August,486.8
+ORD-00323,George Gonzales,08/02/2026,Male,george.gonzales38@icloud.com,(651) 707-6538,Toys,242.5,7,1.6,August,1697.5
+ORD-00324,Fabian Ould Khaled,08/02/2026,Male,Invalid email,(804) 675-4236,Toys,220.31,4,2.0,August,881.24
+ORD-00325,Abdulrahman Shir,08/02/2026,Male,abdulrahman.shir35@gmail.com,(646) 405-3091,Beauty,326.56,1,3.0,August,326.56
+ORD-00327,Nwe Oo Peralta,08/03/2026,Female,Invalid email,(361) 838-2753,Clothing,165.51,3,1.2,August,496.53
+ORD-00328,Samantha Seitz,08/03/2026,Female,samantha.seitz23@yahoo.com,(559) 881-4043,Clothing,341.83,10,2.7,August,3418.3
+ORD-00329,Unkown Unkown,08/03/2026,Male,odiljon.tumusiime61@icloud.com,(330) 962-4493,Grocery,142.83,5,1.5,August,714.15
+ORD-00330,Turner,08/03/2026,-,佳穎.turner0@outlook.com,(702) 648-6554,Grocery,473.79,9,3.2,August,4264.11
+ORD-00331,Rajan Seiuli,08/03/2026,Male,rajan.seiuli31@outlook.com,(405) 217-3707,Electronics,213.92,10,6.5,August,2139.2
+ORD-00332,Tania Garcia,08/04/2026,-,tania.garcia13@gmail.com,(202) 952-0853,Home,48.24,9,2.4,August,434.16
+ORD-00333,Sheila David,08/04/2026,-,sheila.david37@icloud.com,(704) 268-4504,Grocery,69.8,7,1.3,August,488.6
+ORD-00334,Dana Paora,08/04/2026,Female,dana.paora17@gmail.com,(209) 707-8773,Beauty,383.32,2,4.4,August,766.64
+ORD-00335,Francis Hall,08/04/2026,Male,francis.hall44@gmail.com,(434) 832-3254,Not Known,242.5,7,1.9,August,1697.5
+ORD-00336,Paola Davaa,08/04/2026,-,Invalid email,(979) 521-3098,Toys,265.02,5,1.9,August,1325.1
+ORD-00337,Wendy Amin,08/05/2026,Female,wendy.amin68@gmail.com,Unknown,Beauty,272.55,3,2.2,August,817.65
+ORD-00338,Kiala Douaihy,05/05/2026,-,kiala.douaihy70@yahoo.com,(360) 708-1373,Clothing,148.21,5,2.8,May,741.05
+ORD-00339,Unkown Unkown,08/05/2026,Female,Invalid email,(574) 464-1094,Home,19.99,7,3.1,August,139.93
+ORD-00340,Sabina Karim,08/05/2026,Female,Invalid email,Unknown,Beauty,242.5,8,1.5,August,1940.0
+ORD-00341,Unkown Unkown,08/05/2026,-,pihla.walsh71@gmail.com,(816) 408-4310,Not Known,282.31,2,6.5,August,564.62
+ORD-00343,Hagos Egltis,08/06/2026,Male,hagos.eglītis93@gmail.com,(406) 253-9960,Electronics,242.5,10,2.9,August,2425.0
+ORD-00344,Angela Vohor,08/06/2026,Female,angela.vohor7@yahoo.com,(612) 660-4813,Electronics,196.4,9,4.8,August,1767.6
+ORD-00345,Patricia Dacko,08/06/2026,Female,patricia.dacko90@icloud.com,(312) 756-3581,Grocery,72.96,5,2.3,August,364.8
+ORD-00347,Manuel Miller,05/05/2026,Male,Invalid email,(202) 955-6963,Clothing,105.01,8,2.7,May,840.08
+ORD-00348,Yannis Anderson,08/07/2026,-,yannis.anderson31@icloud.com,(318) 902-8297,Clothing,317.89,9,1.4,August,2861.01
+ORD-00349,Vanessa Dumas,05/05/2026,Female,vanessa.dumas62@gmail.com,(719) 572-0315,Toys,279.8,5,2.8,May,1399.0
+ORD-00350,Antoine Meredith,08/07/2026,-,antoine.meredith97@gmail.com,(305) 810-9475,Toys,424.69,4,3.0,August,1698.76
+ORD-00352,Varun Chin,08/07/2026,Male,varun.chin30@icloud.com,(512) 302-9905,Grocery,359.68,1,2.8,August,359.68
+ORD-00353,Floris Loth,08/08/2026,Male,floris.loth8@outlook.com,(414) 770-2470,Electronics,242.5,3,2.5,August,727.5
+ORD-00354,Norazlina Berglund,08/08/2026,Female,norazlina.berglund55@gmail.com,(785) 753-0806,Clothing,58.86,3,2.4,August,176.58
+ORD-00355,Sophie Nistor,08/08/2026,Female,Invalid email,(818) 758-9621,Clothing,480.35,9,1.3,August,4323.15
+ORD-00356,Claudio Razafy,05/05/2026,-,claudio.razafy11@gmail.com,(202) 422-3478,Beauty,126.31,6,2.8,May,757.86
+ORD-00357,Wendy Ramtohul,08/08/2026,-,wendy.ramtohul21@gmail.com,(315) 635-9292,Toys,304.9,3,2.4,August,914.7
+ORD-00358,Unkown Unkown,05/05/2026,Female,huệ.djata49@gmail.com,(612) 410-6464,Toys,413.87,9,3.4,May,3724.83
+ORD-00359,Solange Masiya,08/09/2026,Female,solange.masiya88@icloud.com,(530) 205-0912,Grocery,23.3,4,2.2,August,93.2
+ORD-00360,Chiawei Njai,08/09/2026,Male,chia-wei.njai97@gmail.com,(903) 927-5104,Electronics,475.5,10,2.7,August,4755.0
+ORD-00361,Florencia Germain,08/09/2026,Female,florencia.germain96@gmail.com,(972) 564-1029,Grocery,95.66,9,3.9,August,860.94
+ORD-00363,David Hlatshwako,08/09/2026,-,david.hlatshwako19@gmail.com,Unknown,Beauty,484.94,2,1.6,August,969.88
+ORD-00364,Constantina Gibbs,08/10/2026,Female,constantina.gibbs20@gmail.com,(916) 240-2785,Grocery,112.59,2,4.4,August,225.18
+ORD-00365,Toktokan Burton,05/05/2026,-,toktokan.burton21@gmail.com,(843) 670-3529,Toys,242.5,3,2.8,May,727.5
+ORD-00366,Giacomo Makhetha,08/10/2026,-,giacomo.makhetha13@icloud.com,(619) 826-2530,Grocery,405.53,6,4.3,August,2433.18
+ORD-00367,Jorge Iqbal,08/10/2026,Male,jorge.iqbal61@gmail.com,(218) 226-2082,Clothing,260.38,6,1.1,August,1562.28
+ORD-00368,Kushal Mathebula,08/10/2026,-,Invalid email,(937) 832-3630,Beauty,273.0,1,4.1,August,273.0
+ORD-00369,Brian Verhoeven,08/10/2026,Male,brian.verhoeven40@gmail.com,(406) 824-4329,Toys,220.65,5,1.1,August,1103.25
+ORD-00370,Danilo Keane,08/11/2026,-,Invalid email,(801) 663-6112,Grocery,384.91,6,1.1,August,2309.46
+ORD-00371,Consuelo Mesebeluu,08/11/2026,-,consuelo.mesebeluu70@yahoo.com,(513) 969-6342,Electronics,192.61,9,2.2,August,1733.49
+ORD-00372,Emihner Rowe,08/11/2026,-,emihner.rowe55@me.com,(305) 903-6237,Grocery,142.92,1,4.4,August,142.92
+ORD-00373,Mustapha Baetov,08/11/2026,Male,mustapha.baetov1@icloud.com,Unknown,Beauty,319.14,5,3.8,August,1595.7
+ORD-00374,Cholmi Ziegler,08/11/2026,Female,chol-mi.ziegler30@gmail.com,(212) 335-1235,Not Known,185.29,7,3.1,August,1297.03
+ORD-00375,Nantongo Bhatia,08/11/2026,Female,nantongo.bhatia91@live.com,(336) 806-0210,Beauty,383.94,5,3.9,August,1919.7
+ORD-00376,Rasheed Nunez,08/12/2026,-,rasheed.nunez55@yahoo.com,(831) 423-2018,Clothing,132.54,3,1.1,August,397.62
+ORD-00377,Radhia Heimana,08/12/2026,Female,radhia.heimana64@gmail.com,(301) 502-7008,Home,464.24,1,3.3,August,464.24
+ORD-00379,Enzo Agbessi,08/12/2026,Male,enzo.agbessi77@icloud.com,(229) 958-5463,Home,80.77,5,10.0,August,403.85
+ORD-00380,Luz Colon,08/13/2026,Female,Invalid email,(812) 503-7495,Home,469.39,8,3.3,August,3755.12
+ORD-00381,Dias Weldemariam,08/13/2026,-,dias.weldemariam98@yahoo.com,(309) 977-8956,Toys,399.18,5,4.7,August,1995.9
+ORD-00382,Simon Demissie,05/05/2026,-,simon.demissie43@gmail.com,(301) 884-4463,Home,346.79,3,4.4,May,1040.37
+ORD-00383,Fulya Blondel,08/13/2026,-,fulya.blondel25@gmail.com,(850) 571-6140,Grocery,375.73,7,1.2,August,2630.11
+ORD-00384,Douglas Abdelaziz,08/13/2026,Male,douglas.abdelaziz47@gmail.com,(901) 407-0798,Toys,161.5,6,1.3,August,969.0
+ORD-00385,Miguel Rakotondraibe,08/14/2026,Male,Invalid email,(775) 651-7059,Grocery,377.29,5,2.8,August,1886.45
+ORD-00386,Tnin Douglas,05/05/2026,Female,tènin.douglas36@gmail.com,(253) 451-5062,Clothing,424.69,7,1.1,May,2972.83
+ORD-00387,Liliana Sharma,05/05/2026,Female,liliana.sharma71@gmail.com,(805) 264-4602,Home,270.75,4,3.7,May,1083.0
+ORD-00388,Ricardo Darroux,08/14/2026,-,ricardo.darroux35@yahoo.com,(832) 320-0536,Not Known,18.99,4,3.5,August,75.96
+ORD-00389,Carolina Villa,08/14/2026,-,carolina.villa44@gmail.com,(210) 406-9272,Home,117.77,6,4.7,August,706.62
+ORD-00390,Bilal Pidjot,08/15/2026,Male,bilal.pidjot11@gmail.com,(863) 318-7040,Beauty,242.5,7,4.8,August,1697.5
+ORD-00391,Souleymane Mykytenko,08/14/2026,Male,souleymane.mykytenko56@icloud.com,(281) 913-8416,Grocery,19.99,3,2.3,August,59.97
+ORD-00392,Moinaecha Said,08/15/2026,-,moinaecha.said85@yahoo.com,(415) 983-2405,Toys,249.8,8,1.3,August,1998.4
+ORD-00394,Sabah Alshahin,08/15/2026,-,sabah.al-shahin20@gmail.com,(786) 812-0913,Grocery,226.24,8,1.1,August,1809.92
+ORD-00395,Maureen Wahlstrm,05/05/2026,Female,maureen.wahlström0@gmail.com,(505) 960-1201,Clothing,167.49,7,4.3,May,1172.43
+ORD-00396,Mats Nfubea,08/16/2026,-,mats.nfubea90@icloud.com,(941) 591-8444,Home,463.44,4,3.6,August,1853.76
+ORD-00397,Pilioko Mndru,08/16/2026,Male,pilioko.mîndru96@icloud.com,(818) 986-1734,Electronics,92.53,2,2.8,August,185.06
+ORD-00398,Soraya Radiov,08/16/2026,Female,soraya.radičová15@gmail.com,Unknown,Toys,50.13,3,1.8,August,150.39
+ORD-00399,Wafa Mdard,08/16/2026,-,wafa.médard14@gmail.com,(915) 800-8453,Toys,40.48,9,2.5,August,364.32
+ORD-00400,Kaboua Harris,08/16/2026,Female,kaboua.harris74@icloud.com,Unknown,Electronics,129.53,1,4.8,August,129.53
+ORD-00401,Ratchada Tshisekedi,08/16/2026,-,ratchada.tshisekedi37@live.com,(608) 218-6237,Toys,285.81,4,1.6,August,1143.24
+ORD-00402,Budur Mw,08/17/2026,Female,budur.mwà81@optimum.net,(210) 571-9062,Beauty,397.73,10,1.5,August,3977.3
+ORD-00403,Ahmed Ogoulat,05/05/2026,-,ahmed.ogoulat55@icloud.com,(646) 904-8016,Clothing,242.5,3,2.5,May,727.5
+ORD-00404,Shariful Tashiev,08/17/2026,Male,shariful.tashiev71@yahoo.com,(720) 463-2191,Not Known,345.85,5,3.9,August,1729.25
+ORD-00405,Nestan Seruya,08/17/2026,Female,nestan.seruya85@gmail.com,(804) 967-8283,Toys,242.5,4,2.4,August,970.0
+ORD-00406,Unkown Unkown,08/17/2026,Male,lyubomir.rakhmonov89@gmail.com,(713) 721-8437,Grocery,120.07,4,3.7,August,480.28
+ORD-00407,Sylvia Zrcher,05/05/2026,-,sylvia.zürcher95@icloud.com,(214) 505-2920,Toys,118.06,5,3.7,May,590.3
+ORD-00408,Unkown Unkown,08/18/2026,Male,jae-hwan.longo76@gmail.com,(847) 909-9466,Electronics,53.83,10,2.8,August,538.3
+ORD-00409,Amanda Camacho,08/18/2026,Female,amanda.camacho77@gmail.com,(312) 225-4192,Home,122.5,2,2.4,August,245.0
+ORD-00410,Agns Keita,08/18/2026,Female,agnès.keita42@gmail.com,(704) 464-9762,Electronics,485.54,10,3.5,August,4855.4
+ORD-00411,Emma Delgado,08/18/2026,-,emma.delgado81@gmail.com,Unknown,Home,431.83,8,4.2,August,3454.64
+ORD-00412,Catherine Nxumalo,08/18/2026,-,catherine.nxumalo1@icloud.com,(816) 887-5218,Toys,461.68,6,3.5,August,2770.08
+ORD-00413,Lorena Martin,05/05/2026,-,lorena.martin33@icloud.com,(202) 684-3872,Not Known,44.27,7,1.3,May,309.89
+ORD-00414,Iki Dumont,08/19/2026,-,iki.dumont82@gmail.com,(805) 912-1115,Electronics,485.78,3,1.6,August,1457.34
+ORD-00415,Linda Alshahrani,08/19/2026,Female,linda.al-shahrani77@gmail.com,(214) 278-7259,Toys,27.7,1,2.8,August,27.7
+ORD-00417,Jazmn Murr,08/19/2026,-,jazmín.murr19@gmail.com,(515) 378-0214,Beauty,488.62,3,3.6,August,1465.86
+ORD-00418,Aljo Abou Khalil,05/05/2026,-,Invalid email,(210) 433-3387,Home,393.43,6,3.5,May,2360.58
+ORD-00419,Anna Uzochukwu,08/20/2026,-,anna.uzochukwu23@gmail.com,(719) 818-7599,Electronics,231.85,1,2.8,August,231.85
+ORD-00420,Han Ledezma,05/05/2026,-,han.ledezma29@yahoo.com,(602) 223-2013,Electronics,359.31,7,4.9,May,2515.17
+ORD-00421,Carmen Henriques,08/20/2026,Female,carmen.henriques62@icloud.com,(915) 886-5308,Electronics,354.0,10,4.4,August,3540.0
+ORD-00422,Rania Zbus,08/20/2026,-,rania.zébus0@icloud.com,(940) 909-0818,Clothing,262.03,10,3.9,August,2620.3
+ORD-00423,Barbara Pistone,08/20/2026,Female,barbara.pistone70@gmail.com,(763) 886-6305,Electronics,229.43,6,1.7,August,1376.58
+ORD-00424,Terence Andriamahery,08/21/2026,-,terence.andriamahery36@icloud.com,(310) 637-4373,Clothing,393.76,100,2.0,August,39376.0
+ORD-00425,Klaus Erazo,05/05/2026,Male,klaus.erazo92@gmail.com,(859) 378-5471,Toys,200.22,6,1.7,May,1201.32
+ORD-00427,Fernande Lora,05/05/2026,Female,fernande.lora83@yahoo.com,(412) 602-0631,Clothing,45.04,5,1.3,May,225.2
+ORD-00428,Hiba Nicolle,05/05/2026,-,hiba.nicolle49@icloud.com,(213) 937-8925,Toys,152.95,10,2.1,May,1529.5
+ORD-00429,Unkown Unkown,08/21/2026,-,wangeci.beache50@icloud.com,Unknown,Home,120.36,6,1.3,August,722.16
+ORD-00430,Miguel Johnson,08/22/2026,-,Invalid email,(202) 902-0877,Clothing,17.75,4,2.6,August,71.0
+ORD-00431,Fallon Nanyonga,08/22/2026,-,fallon.nanyonga30@gmail.com,Unknown,Toys,74.15,5,2.5,August,370.75
+ORD-00432,Derek Vega,08/22/2026,-,derek.vega40@gmail.com,(734) 883-1736,Home,281.09,6,4.4,August,1686.54
+ORD-00433,Qurrat Santos,08/22/2026,Female,qurrat.santos7@gmail.com,(217) 407-7407,Toys,478.91,2,2.8,August,957.82
+ORD-00434,Adrian Karma,08/22/2026,Male,adrian.karma30@icloud.com,(520) 773-5344,Home,5.03,5,1.4,August,25.15
+ORD-00435,Nura Bonini,08/23/2026,-,nura.bonini16@outlook.com,(505) 940-5923,Home,349.04,3,1.4,August,1047.12
+ORD-00436,Vera Davlatov,05/05/2026,Female,vera.davlatov89@icloud.com,(254) 735-6501,Beauty,166.82,6,4.0,May,1000.92
+ORD-00437,Henri Maxwell,08/23/2026,Male,henri.maxwell3@gmail.com,(513) 530-2570,Grocery,242.5,6,3.9,August,1455.0
+ORD-00438,Vincent Jamtsho,08/23/2026,Male,vincent.jamtsho78@gmail.com,(936) 246-9932,Not Known,458.42,8,2.8,August,3667.36
+ORD-00439,Isabelle Zhou,08/24/2026,Female,isabelle.zhou26@icloud.com,(404) 788-1376,Electronics,74.3,10,3.5,August,743.0
+ORD-00440,No Matveev,05/05/2026,Male,noé.matveev25@gmail.com,(615) 872-0363,Electronics,302.03,8,3.3,May,2416.24
+ORD-00441,Aaron Filali,08/24/2026,Male,aaron.filali86@gmail.com,(913) 614-6977,Toys,42.63,5,2.4,August,213.15
+ORD-00442,Unkown Unkown,08/24/2026,Male,condé.badu28@icloud.com,(206) 282-0423,Grocery,201.7,10,4.5,August,2017.0
+ORD-00443,Unkown Unkown,08/24/2026,-,angela.jolicoeur95@hotmail.com,(502) 557-5537,Electronics,296.03,5,0.0,August,1480.15
+ORD-00444,Abdulaziz Kadyrov,08/24/2026,Male,abdulaziz.kadyrov57@gmail.com,(213) 574-8727,Grocery,274.13,5,2.1,August,1370.65
+ORD-00445,Mercedes Fofana,08/24/2026,-,mercedes.fofana1@proton.me,(360) 809-6065,Grocery,439.66,5,3.3,August,2198.3
+ORD-00446,Dragana Yassin,08/25/2026,Female,dragana.yassin75@gmail.com,(937) 200-4280,Clothing,75.74,10,2.1,August,757.4
+ORD-00447,Ketleen Rabon,08/25/2026,-,ketleen.rabon3@gmail.com,(623) 345-2072,Home,48.95,6,2.5,August,293.7
+ORD-00448,Thomas Brahmi,08/25/2026,Male,thomas.brahmi69@icloud.com,(559) 588-4974,Clothing,32.49,3,1.7,August,97.47
+ORD-00449,Lucie Chin,08/25/2026,Female,lucie.chin71@icloud.com,(516) 717-2986,Home,132.58,4,1.6,August,530.32
+ORD-00450,Nortey Zhusupov,08/26/2026,Female,nortey.zhusupov37@gmail.com,(405) 336-3728,Electronics,304.44,4,1.3,August,1217.76
+ORD-00451,Josefine Perkins,08/26/2026,Female,josefine.perkins11@icloud.com,(918) 790-2316,Electronics,242.5,5,1.5,August,1212.5
+ORD-00452,Olivia Toekoen,08/26/2026,-,olivia.toekoen11@outlook.com,(914) 812-8310,Not Known,78.98,7,1.1,August,552.86
+ORD-00454,Unkown Unkown,08/26/2026,-,charity.payet33@gmail.com,(865) 917-3819,Beauty,373.87,2,2.1,August,747.74
+ORD-00455,Hanna Iyer,08/27/2026,Female,hanna.iyer14@gmail.com,(619) 760-4229,Grocery,485.93,5,3.0,August,2429.65
+ORD-00456,Elnur Munishi,08/26/2026,Male,elnur.munishi36@gmail.com,(901) 665-7286,Grocery,298.86,5,1.9,August,1494.3
+ORD-00457,Natasha Albalushi,08/27/2026,Female,natasha.al-balushi32@icloud.com,Unknown,Electronics,353.97,8,2.9,August,2831.76
+ORD-00459,Selwyn Hanni,08/27/2026,Male,selwyn.hanni21@gmail.com,(205) 319-0749,Home,236.18,1,2.0,August,236.18
+ORD-00460,Nika Kereama,08/28/2026,Male,Invalid email,(415) 796-5932,Toys,242.5,7,1.3,August,1697.5
+ORD-00461,Sarah Prieto,08/28/2026,Female,sarah.prieto18@gmail.com,Unknown,Electronics,273.67,5,1.5,August,1368.35
+ORD-00462,Marion Ferrer,08/28/2026,-,marion.ferrer14@gmail.com,Unknown,Toys,187.97,5,2.9,August,939.85
+ORD-00463,Melina Adhiambo,08/28/2026,Female,melina.adhiambo6@icloud.com,(801) 489-8533,Grocery,11.77,10,1.1,August,117.7
+ORD-00464,Weldu Khakhaleishvili,08/28/2026,-,weldu.khakhaleishvili10@icloud.com,(904) 736-8581,Home,198.34,7,1.4,August,1388.38
+ORD-00465,Zoran Romero,08/28/2026,Male,zoran.romero47@icloud.com,Unknown,Not Known,403.07,4,3.3,August,1612.28
+ORD-00466,Naima Abdulla,08/28/2026,-,naima.abdulla82@gmail.com,(225) 288-4377,Electronics,304.71,5,3.0,August,1523.55
+ORD-00467,Josphine Hadjigeorgiou,08/29/2026,Female,joséphine.hadjigeorgiou15@icloud.com,(678) 893-3041,Toys,79.03,5,3.7,August,395.15
+ORD-00468,Nancy Coffie,08/29/2026,Female,nancy.coffie74@gmail.com,(814) 672-8316,Home,181.68,5,2.1,August,908.4
+ORD-00469,Wajdi Frolov,08/29/2026,-,Invalid email,(601) 984-7713,Grocery,440.67,5,0.0,August,2203.35
+ORD-00470,Eigamoiya Kyaw Myint,08/29/2026,Female,Invalid email,(410) 471-5286,Home,41.77,8,1.3,August,334.16
+ORD-00471,Unkown Unkown,05/05/2026,Male,frankie.reece51@yahoo.com,(910) 710-2521,Beauty,228.05,5,2.4,May,1140.25
+ORD-00472,Francis Arancibia,08/29/2026,-,francis.arancibia26@icloud.com,(334) 552-0984,Clothing,417.97,5,3.2,August,2089.85
+ORD-00473,Hussein Alhaj,08/30/2026,Male,hussein.al-haj89@comcast.net,(213) 795-5003,Grocery,92.38,6,2.3,August,554.28
+ORD-00474,Fadi Ulate,08/30/2026,Male,fadi.ulate82@gmail.com,(757) 483-6366,Electronics,444.9,2,2.8,August,889.8
+ORD-00475,Sara Aldawood,08/30/2026,Female,Invalid email,(610) 861-7563,Electronics,125.78,6,1.8,August,754.68
+ORD-00476,Ogulsapar Delos Santos,08/30/2026,Male,Invalid email,(602) 706-9417,Not Known,232.37,7,2.8,August,1626.59
+ORD-00477,Abdoulaye Alzahra,08/30/2026,Male,abdoulaye.al-zahra37@gmail.com,(651) 680-6521,Grocery,10.05,6,3.2,August,60.3
+ORD-00478,Yasmine Tate,08/31/2026,-,yasmine.tate77@gmail.com,(305) 792-8570,Clothing,212.01,3,2.5,August,636.03
+ORD-00479,Tawfiq Tabidze,08/31/2026,-,tawfiq.tabidze31@yahoo.com,(704) 824-3553,Electronics,382.42,5,1.4,August,1912.1
+ORD-00480,Muna Daramy,08/31/2026,Female,Invalid email,(412) 873-4429,Grocery,173.37,5,2.1,August,866.85
+ORD-00481,Christophe Jaiswal,08/31/2026,Male,christophe.jaiswal1@gmail.com,(724) 301-6680,Electronics,16.43,3,4.5,August,49.29
+ORD-00482,Rhea Ribeiro,08/31/2026,-,rhea.ribeiro26@gmail.com,(201) 687-9148,Electronics,217.85,6,1.0,August,1307.1
+ORD-00483,Jacqueline Grant,08/31/2026,-,jacqueline.grant68@gmail.com,(515) 978-1979,Beauty,166.89,5,2.0,August,834.45
+ORD-00484,Yaya Cordova,09/01/2026,-,yaya.cordova57@gmail.com,(518) 233-3072,Grocery,435.53,10,2.8,September,4355.3
+ORD-00485,Xavier Shapira,05/05/2026,-,xavier.shapira92@gmail.com,(480) 924-3618,Grocery,224.58,7,1.5,May,1572.06
+ORD-00486,Ece Hubert,09/01/2026,-,ece.hubert53@gmail.com,(209) 480-8117,Home,151.27,6,4.6,September,907.62

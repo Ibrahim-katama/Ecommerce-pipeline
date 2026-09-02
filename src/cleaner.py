@@ -51,7 +51,7 @@ def _clean_numeric_fields(df: pd.DataFrame) -> pd.DataFrame:
 
 
     df["quantity"] = pd.to_numeric(df["quantity"], errors="coerce")
-    df["quantity"] = df["quantity"].fillna(1).clip(lower = 0).astype(int)
+    df["quantity"] = df["quantity"].fillna(df["quantity"].median()).clip(lower = 0 , upper = 100).astype(int)
 
     df["customer_rating"] =pd.to_numeric(df["customer_rating"], errors="coerce")
     df["customer_rating"]= (
